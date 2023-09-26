@@ -1,2 +1,2 @@
-# pemrog3
+# college
 Setting Up Git
